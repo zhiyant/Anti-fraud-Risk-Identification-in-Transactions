@@ -1,0 +1,6 @@
+data文件夹：
+train_fea.xlsx和test_fea.xlsx是原始数据
+tr_fea_5.csv和ts_fea_5.csv是完成了数据处理后的数据
+
+model文件夹：
+保存了训练效果最好的单个lgb模型和xgb模型
